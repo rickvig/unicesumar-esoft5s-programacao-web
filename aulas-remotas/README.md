@@ -1,3 +1,10 @@
+### REPOSITÓRIO da disciplina
+
+https://github.com/rickvig/unicesumar-esoft5s-programacao-web
+
+---
+### TEXT ABERTURA DA AULA REMOTA
+
 OLÁ PESSOAL, SEJAM BEM VINDOS A AULA REMOTA!
 QUALQUER DÚVIDA ESTOU A DISPOSIÇÃO.
 SÃO 9 VIDEOS DE PAOXIMADAMENTE 5 MINUTOS.
