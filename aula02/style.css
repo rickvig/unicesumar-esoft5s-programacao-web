@@ -1,0 +1,139 @@
+body {
+    background-color: #e9ebee;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-size: 18px;
+}
+
+tr:nth-child(even) {
+    background-color: red;
+}
+
+#bola {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+/*************************/
+
+h1 {
+    font-family: serif;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: monospace;
+}
+
+body {
+    font-family: "Arial", "Helvetica", sans-serif;
+}
+
+p {
+    line-height: 3px;
+    /* tamanho da altura de cada linha */
+    letter-spacing: 3px;
+    /* tamanho do espaço entre cada letra */
+    word-spacing: 5px;
+    /* tamanho do espaço entre cada palavra */
+    text-indent: 30px;
+    /* tamanho da margem da primeira linha do texto */
+}
+
+h1 {
+    background-color: yellow;
+}
+
+h3 {
+    color: rgb(255, 200, 0);
+}
+
+h4 {
+    background-color: #F2EDED;
+}
+
+p {
+    padding: 1px 2px 3px 4px;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+}
+
+h1 {
+    font-family: serif;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: monospace;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: "Arial", "Helvetica", sans-serif;
+}
+
+.painel li {
+    display: inline-block;
+    vertical-align: top;
+    width: 140px;
+    margin: 2px;
+    padding-bottom: 10px;
+}
+
+input[type="text"] {
+    border-radius: 4px;
+}
+
+div[class|="menu"] {
+    border-radius: 4px;
+}
+
+input[value~="problema"] {
+    color: #CC0000;
+}
+
+/* busca por inputs com valor de "name" iniciando em "usuario" */
+input[name^="usuario"] {
+    color: #99FFCC;
+}
+
+/* busca por inputs com valor de "name" terminando em "teste" */
+input[name$="teste"] {
+    background-color: #CCFF00;
+}
+
+/* busca por inputs com valor do atributo "name".
+    contendo "tela" em qualquer posição */
+input[name*="tela"] {
+    color: #666666;
+}
