@@ -13,19 +13,19 @@ function calculaBinaryGap() {
 
   console.log("valores", valor, binario, binarioSplit);
 
-  let menor = 0;
+  let maior = 0;
   let contador = 1;
 
   binarioSplit.forEach((elemento) => {
     if (
-      elemento.length > menor &&
+      elemento.length > maior &&
       !(contador === binarioSplit.length && elemento.includes("0"))
     )
-      menor = elemento.length;
+      maior = elemento.length;
     contador++;
   });
 
-  console.log(menor);
-  menor = menor === 0 ? "Não tem BinaryGap" : menor;
-  this.parentElement.nextElementSibling.innerHTML = menor;
+  console.log(maior);
+  maior = maior === 0 ? "Não tem BinaryGap" : maior;
+  this.parentElement.nextElementSibling.innerHTML = maior;
 }

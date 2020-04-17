@@ -13,5 +13,5 @@
 - Aula 07 - **26/03/2020** - JS Parte II - Atividade: Declaração de funções - *Aula Remota*
 - Aula 08 - **02/04/2020** - JS Parte III - Atividade: BinaryGap - *Aula Remota*
 - Aula 09 - **09/04/2020** - Bootstrap Introdução - Atividade Petshop com Bootstrap 4 - *Aula Remota*
-- Aula 09 - **16/04/2020** - Bootstrap Parte II - Atividade Petshop com Bootstrap 4 elementos - *Aula Remota*
+- Aula 10 - **16/04/2020** - Bootstrap Parte II - Atividade Petshop com Bootstrap 4 componentes - *Aula Remota*
 
