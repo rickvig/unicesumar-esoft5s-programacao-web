@@ -14,4 +14,8 @@
 - Aula 08 - **02/04/2020** - JS Parte III - Atividade: BinaryGap - *Aula Remota*
 - Aula 09 - **09/04/2020** - Bootstrap Introdução - Atividade Petshop com Bootstrap 4 - *Aula Remota*
 - Aula 10 - **16/04/2020** - Bootstrap Parte II - Atividade Petshop com Bootstrap 4 componentes - *Aula Remota*
+- Aula 11 - **23/04/2020** - Revisão para PROVA - *Aula Remota*
+- Aula 12 - **30/04/2020** - PROVA - *Aula Remota*
+- Aula 13 - **07/05/2020** - Revisão da PROVA - Atividade Panorama do JQuery - *Aula Remota*
+- Aula 14 - **14/05/2020** - Mesa redonda sobre o Panorama do JQuery - Atividade Web-scrapping  - *Aula Remota*
 
